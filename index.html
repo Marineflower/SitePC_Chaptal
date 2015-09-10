@@ -1,0 +1,15 @@
+---
+layout: default
+title: Mon blog
+---
+
+<div class="jumbotron">
+  <div class="container">
+        <!--<h1>Mon blog</h1>-->
+        {% for category in site.categories %}
+            <div>
+		<li><a href="{{site.url}}/categories/{{ category[0] }}.html">{{ category[0] }}</a></li>
+            </div>
+        {% endfor %}
+  </div>
+</div>
