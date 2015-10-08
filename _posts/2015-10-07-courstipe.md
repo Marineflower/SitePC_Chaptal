@@ -42,10 +42,10 @@ A faire pour vendredi 9 octobre :
 
 - réfléchir aux questions qui sont apparues pendant le déroulement du cours : 
 
-- pourquoi peut-on approximer le vecteur \(\vec{SS_1}\) avec $\vec{S_0S_1}$ dans l'expression \\(\vec{SS_1}.\delta \vec{u}_{1} \\) qui apparaît dans la résolution de l'exercice sur la cohérence spatiale ?
+   - pourquoi peut-on approximer le vecteur `\\(\vec{SS_1}\\)` avec `\(\vec{S_0S_1}\)` dans l'expression '\\(\vec{SS_1}.\delta \vec{u}_{1}\\)' qui apparaît dans la résolution de l'exercice sur la cohérence spatiale ?
 
-- que devient le terme \\(\cos[(\Delta\varphi_{S_0}+\Delta\varphi_{S})/2]\\), terme qui apparaît dans l'exercice sur la cohérence spatiale ?
+   - que devient le terme \\(\cos[(\Delta\varphi_{S_0}+\Delta\varphi_{S})/2]\\), terme qui apparaît dans l'exercice sur la cohérence spatiale ?
 
-   - par ordre de priorité, exos 4, 7, 5 et 6.
+- par ordre de priorité, exos 4, 7, 5 et 6.
 
-   - on n'oubliera pas de plus le DM sur le rayon vert.
+- on n'oubliera pas de plus le DM sur le rayon vert.
