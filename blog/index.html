@@ -9,7 +9,7 @@ title: Mon blog
             <div>
                 <h3>{{ post.title }} <small>{{post.date | date_to_string }}</small></h3>
                 <p>{{post.excerpt}}</p>
-                <p><a href="{{site.url}}{{post.url}}" class="btn btn-default">Lire plus</a></p>
+                <p><a href="{{site.baseurl}}{{post.url}}" class="btn btn-default">Lire plus</a></p>
             </div>
             <hr>
         {% endfor %}
