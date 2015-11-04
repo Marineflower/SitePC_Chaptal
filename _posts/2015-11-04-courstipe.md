@@ -5,6 +5,7 @@ title: "Cours et ADS-TIPE du mercredi 4 novembre 2015"
 category: cahier_de_texte
 ---
 Début du cours de thermodynamique, bilans thermodynamiques pour les systèmes ouverts.
+
 - Motivation : 
 
   - historique : synergie entre le développement industriel et le développement de la thermodynamique aux XIXème siècle => La thermodynamique a pour objectif de s'appliquer à des machines industrielles.
