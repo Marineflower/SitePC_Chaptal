@@ -45,7 +45,7 @@ Pour l'ADS, travailler son plan détaillé, soit
 
   - Un plan avec les principales parties comme vous en avez l'habitude 
 
-  - + mettre l'idée d'intro en quelques mots 
+  - mettre l'idée d'intro en quelques mots 
 
     - 1-2 mots idéalement ; le but est que ce soit rapide et facile à lire tout en étant assez précis pour rappeler immédiatement ce qu'on souhaitait dire
 
