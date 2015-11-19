@@ -76,7 +76,8 @@ Comment les construire ?
 
   - si vous pouvez mettre un tableau comparatif, c'est toujours bien.
 
-- Pour l'oral, on ne sait jamais commencer, ni finir. Beaucoup de réflexions et source de déstabilisation. On peut commencer par "Bonjour, j'ai choisi de commencer par vous présenter l'analyse de document scientifique prtant sur le intitulé "..."" (lire le nom de texte) ou si vous choisissez de le présenter en 2ème "Maintenant, je vous vous présenter l'analyse de document scientifique portant sur le texte intitulé "...""; à la fin "Je vous remercie de votre attention". (L'avantage de cette fin est que le jury est sûr que vous avez fini ce qui évite les flottements déstabilisants.
+- Pour l'oral, on ne sait jamais commencer, ni finir. Beaucoup de réflexions et source de déstabilisation. On peut commencer par "Bonjour, j'ai choisi de commencer par vous présenter l'analyse de document scientifique portant sur le texte intitulé "..."" (lire le nom de texte) ou si vous choisissez de le présenter en 2ème "Maintenant, je vous vous présenter l'analyse de document scientifique portant sur le texte intitulé "...""; à la fin "Je vous remercie de votre attention". (L'avantage de cette fin est que le jury est sûr que vous avez fini ce qui évite les flottements déstabilisants.)
+
 
 A faire :
 
