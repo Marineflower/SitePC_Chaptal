@@ -4,7 +4,7 @@ layout: post
 title: "Cours et ADS-TIPE du mercredi 9 décembre 2015"
 category: cahier_de_texte
 ---
-Suite du cours sur la modélisation des forces en mécanique des fluides :
+Fin du cours sur la modélisation des forces en mécanique des fluides :
 
 - origine microscopique de la tension de surface, estimation de l'ordre de grandeur d'une interface liquide
 
